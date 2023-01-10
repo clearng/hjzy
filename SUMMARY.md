@@ -4,7 +4,7 @@
 
 ## 语文 <a href="#chinese" id="chinese"></a>
 
-* [作业](<README (1).md>)
+* [作业](README.md)
 
 ## 数学 <a href="#mathematics" id="mathematics"></a>
 
