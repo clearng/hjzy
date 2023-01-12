@@ -4,7 +4,7 @@
 
 ## 语文 <a href="#chinese" id="chinese"></a>
 
-* [作业](README.md)
+* [作业](<README (1).md>)
 
 ## 数学 <a href="#mathematics" id="mathematics"></a>
 
@@ -21,6 +21,7 @@
 
 * [作业](politics/zuo-ye.md)
 * [思维导图](politics/si-wei-dao-tu.md)
+* [领跑填空题](politics/ling-pao-tian-kong-ti.md)
 
 ## 物理 <a href="#physics" id="physics"></a>
 
