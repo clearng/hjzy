@@ -57,3 +57,13 @@
 <figure><img src="https://cdn.staticaly.com/gh/clearng/klyme-api-img@main/3Q~%60B0KGT)W6B)N9J9KML~D.1dsnh66gbhfk.webp" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/YUO5Y7O%F]LB){5%~EB7J4F.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/UZ_DX2QUIRPQ]5V1D)O4)2L.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://cdn.staticaly.com/gh/clearng/fotobuffet-docs@master/xxx.28v3rrtgh7ok.webp" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://cdn.staticaly.com/gh/clearng/fotobuffet-docs@master/KJZH%7DS5_Y4IRS~9J@A8U~LA.3pw4hu8b91g0.webp" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://cdn.staticaly.com/gh/clearng/fotobuffet-docs@master/V65JY(F9Y2ODVEL6NLIT7_U.webp" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://cdn.staticaly.com/gh/clearng/fotobuffet-docs@master/dddd.rrbsn6j6uo0.webp" alt=""><figcaption></figcaption></figure>
