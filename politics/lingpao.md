@@ -67,3 +67,11 @@
 <figure><img src="https://cdn.staticaly.com/gh/clearng/fotobuffet-docs@master/V65JY(F9Y2ODVEL6NLIT7_U.webp" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://cdn.staticaly.com/gh/clearng/fotobuffet-docs@master/dddd.rrbsn6j6uo0.webp" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://cdn.staticaly.com/gh/clearng/fotobuffet-docs@master/www.5h6ohsqx0kk0.webp" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://cdn.staticaly.com/gh/clearng/fotobuffet-docs@master/aaa.jhklz2zqpgg.webp" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://cdn.staticaly.com/gh/clearng/fotobuffet-docs@master/fff.5ubssq0itig0.webp" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://cdn.staticaly.com/gh/clearng/fotobuffet-docs@master/kkk.41mqd65gnhi0.webp" alt=""><figcaption></figcaption></figure>
