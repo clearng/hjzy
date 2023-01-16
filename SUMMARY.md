@@ -15,7 +15,6 @@
 
 * [作业](engilsh/homework.md)
 * [周报](engilsh/english-weekly.md)
-* [学评](engilsh/xueping.md)
 
 ## 道法 <a href="#politics" id="politics"></a>
 
