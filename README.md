@@ -8,8 +8,4 @@
 
 别担心，这是正常的，点击“Reload”即可。如果你有梯子，也可以挂着梯子看。
 
-具体为什么会这样？Cloudflare的CDN一次只能返回一版内容，而Gitbook切换页面时会视为同一次会话，因此CloudflareCDN不会返回内容，就报错了。那为什么我挂梯子后就不会出现了呢？还是Cloudflare的问题，CDN主要是加速用的，挂梯子后没必要加速，就绕过CDN直接访问源服务器，源服务器是没问题的，有问题的是CDN。
-
-我也很无语啊，已经挂了CDN还是这么慢
-
-<figure><img src="https://cdn.staticaly.com/gh/clearng/fotobuffet-docs@master/image.6mlfbcf7c3o0.webp" alt=""><figcaption></figcaption></figure>
+gitbook体积真的太大了，加载很慢。用vuepress应该会好点，可是我技术太烂了不会搭建qwq
