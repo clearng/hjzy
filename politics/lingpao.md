@@ -10,11 +10,11 @@
 
 <figure><img src="https://cdn.staticaly.com/gh/clearng/klyme-api-img@main/YWBBXF2]03T_19]ZFCRGN%60B.1nfqk4mfm0kg.webp" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/JQ_884D&#x60;ST6CF1KKMGT_FB1 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/JQ_884D&#x60;ST6CF1KKMGT_FB1.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/@2X~~)Z2~@D0RS(A$@Y)8E8.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/JQ_884D&#x60;ST6CF1KKMGT_FB1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/JQ_884D&#x60;ST6CF1KKMGT_FB1 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/$KIR{$8R]_S3CMW69D1~R$7.jpg" alt=""><figcaption></figcaption></figure>
 
