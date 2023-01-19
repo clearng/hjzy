@@ -1,6 +1,6 @@
 # 请注意！
 
-### <mark style="color:red;">复制链接到浏览器查看，不要在微信看！！！</mark>
+### <mark style="color:red;">去Q群：477599133</mark>
 
 更新于2023.1.19 11:12
 
